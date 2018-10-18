@@ -22,6 +22,11 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.gmaps.gmapstest",
+
     }
   }
 }
+
